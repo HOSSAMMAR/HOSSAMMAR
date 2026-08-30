@@ -184,29 +184,17 @@ Building intelligent automated workflows using **n8n, AI APIs, and LLM integrati
 
 <div align="center">
 
-**Data → Clean → Analyze → Visualize → Model → Evaluate → Deploy → Improve**
+<img src="https://raw.githubusercontent.com/HOSSAMMAR/HOSSAMMAR/main/assets/icons8-analytics.gif" width="90" />
 
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="9%" alt="Analytics"/>
+<img src="https://raw.githubusercontent.com/HOSSAMMAR/HOSSAMMAR/main/assets/lightbulb-transparent-hd.gif" width="90" />
 
-    
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="9%" alt="Development"/>
-
-    
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="9%" alt="Insights"/>
-
-    
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="9%" alt="Deploy"/>
+<img src="https://raw.githubusercontent.com/HOSSAMMAR/HOSSAMMAR/main/assets/rocket-transparent-hd.gif" width="90" />
 
 </div>
-
----
-
-<div align="center">
 
 ### 🤝 Let's Connect
 
