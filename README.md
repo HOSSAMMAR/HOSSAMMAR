@@ -182,19 +182,28 @@ Building intelligent automated workflows using **n8n, AI APIs, and LLM integrati
 
 ## 💡 Data & AI Cycle
 
-<div align="center">
+<table align="center">
+    **Data → Clean → Analyze → Visualize → Model → Evaluate → Deploy → Improve**
 
-<img src="https://raw.githubusercontent.com/HOSSAMMAR/HOSSAMMAR/main/assets/icons8-analytics.gif" width="90" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/HOSSAMMAR/HOSSAMMAR/main/assets/lightbulb-transparent-hd.gif" width="90" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://raw.githubusercontent.com/HOSSAMMAR/HOSSAMMAR/main/assets/rocket-transparent-hd.gif" width="90" />
-
-</div>
+<br><br>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/HOSSAMMAR/HOSSAMMAR/main/assets/icons8-analytics.gif" width="90">
+        <br><br>
+          <b>Analyze</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/HOSSAMMAR/HOSSAMMAR/main/assets/lightbulb-transparent-hd.gif" width="90">
+        <br><br>
+            <b>Improve</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/HOSSAMMAR/HOSSAMMAR/main/assets/icons8-rocket.gif" width="90">
+        <br><br>
+        <b>Deploy</b>
+    </td>
+  </tr>
+</table>
 
 ### 🤝 Let's Connect
 
